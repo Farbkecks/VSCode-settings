@@ -26,5 +26,5 @@ https://marketplace.visualstudio.com/items?itemName=geddski.macros
 	{
         	"key": "f6",
         	"command": "macros.commentCMD"
-        },
+       },
 	
