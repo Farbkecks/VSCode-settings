@@ -11,7 +11,7 @@
 	  "editor.parameterHints": false,
 
 ## cmd Makro
-mit f6 automatisch "main.py" in cmd ausführen
+mit f6 automatisch "main.py" in cmd ausführen <br>
 diese Extension installieren:
 https://marketplace.visualstudio.com/items?itemName=geddski.macros
 
