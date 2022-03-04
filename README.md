@@ -2,7 +2,7 @@
 
 ## Hotkeys
 	editor.action.copyLinesDownAction = ctrl + d
-  	editor.action.commentLine = strg + 
+  	editor.action.commentLine = strg + w
 
 ## Settings.json
 	  "terminal.integrated.defaultProfile.windows": "Command Prompt",
