@@ -18,7 +18,7 @@ https://marketplace.visualstudio.com/items?itemName=geddski.macros
 ### Settings.json
 	"macros": {
             "commentCMD": [
-            	"workbench.action.togglePanel",
+            	"workbench.action.terminal.toggleTerminal",
             	{"command": "workbench.action.terminal.sendSequence","args": { "text": "main.py\u000D" }}
             ]
    	},
