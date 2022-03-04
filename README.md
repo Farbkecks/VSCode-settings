@@ -24,7 +24,7 @@ https://marketplace.visualstudio.com/items?itemName=geddski.macros
    	},
 ### keybindings.json
 	{
-        "key": "f6",
-        "command": "macros.commentCMD"
+        	"key": "f6",
+        	"command": "macros.commentCMD"
         },
 	
