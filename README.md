@@ -11,5 +11,13 @@
 	  "editor.parameterHints": false,
 
 ## cmd Makro
-   https://marketplace.visualstudio.com/items?itemName=geddski.macros
+mit f6 automatisch "main.py" in cmd ausführen
+diese Extension installieren:
+https://marketplace.visualstudio.com/items?itemName=geddski.macros
+
+Settings.json:
+	"macros": {
+         commentCMD": [
+         "workbench.action.togglePanel",
+         {"command": "workbench.action.terminal.sendSequence","args": { "text": "main.py\u000D" }}]},
 
