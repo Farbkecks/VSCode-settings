@@ -11,11 +11,10 @@
 	  "editor.parameterHints": false,
 
 ## cmd Makro
-`Settings.json:
 	"macros": {
-         commentCMD": [
-         "workbench.action.togglePanel",
-         {"command": "workbench.action.terminal.sendSequence","args": { "text": "main.py\u000D" }}]},`
+         	commentCMD": [
+        		"workbench.action.togglePanel",
+         		{"command": "workbench.action.terminal.sendSequence","args": { "text": "main.py\u000D" }}]},
 
 mit f6 automatisch "main.py" in cmd ausführen
 diese Extension installieren:
