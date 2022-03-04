@@ -10,3 +10,6 @@
 	  "editor.smoothScrolling": true,
 	  "editor.parameterHints": false,
 
+## cmd Makro
+	https://marketplace.visualstudio.com/items?itemName=geddski.macros
+
