@@ -6,14 +6,13 @@
 	workbench.action.togglePanel = F5
 
 ## Settings.json
-	  "terminal.integrated.defaultProfile.windows": "Command Prompt",
-	  "editor.minimap.enabled": false,  
-	  "editor.smoothScrolling": true,
-	  "editor.parameterHints": false,
-	  "vim.handleKeys": {
+	"terminal.integrated.defaultProfile.windows": "Command Prompt",
+	"editor.minimap.enabled": false,  
+	"editor.smoothScrolling": true,
+	"editor.parameterHints": false,
+	"vim.handleKeys": {
 	  	"<C-c>": false,
-		"<C-v>": false,
-	  },
+		"<C-v>": false,},
 	"vim.useSystemClipboard": false,  
 	
 ## Extensions
