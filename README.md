@@ -11,6 +11,21 @@
 	  "editor.smoothScrolling": true,
 	  "editor.parameterHints": false,
 
+## Extensions
+Arduino
+Better TOML
+c/C++
+crates
+marcros
+One Dark Pro
+Path Intellisense
+Python
+rust-analyzer
+Tabnine
+Vim
+CodeTogether
+Error Lens
+
 ## cmd Makro
 mit f6 automatisch "main.py" in cmd ausführen <br>
 diese Extension installieren:
