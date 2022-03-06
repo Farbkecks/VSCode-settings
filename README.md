@@ -10,7 +10,12 @@
 	  "editor.minimap.enabled": false,  
 	  "editor.smoothScrolling": true,
 	  "editor.parameterHints": false,
-
+	  "vim.handleKeys": {
+	  	"<C-c>": false,
+		"<C-v>": false,
+	  },
+	"vim.useSystemClipboard": false,  
+	
 ## Extensions
 * Arduino
 * Better TOML
