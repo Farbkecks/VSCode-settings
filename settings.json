@@ -1,0 +1,21 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\fabia\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+    "window.zoomLevel": 1,
+    "tabnine.experimentalAutoImports": true,
+    "macros": {
+        "commentCMD": [
+        	"workbench.action.terminal.toggleTerminal",
+        	{"command": "workbench.action.terminal.sendSequence","args": { "text": "python main.py\u000D" }}
+        ]
+    },
+    "editor.minimap.enabled": false,
+    "editor.smoothScrolling": true,
+	"editor.parameterHints": false,
+	"vim.handleKeys": {
+	  	"<C-c>": false,
+		"<C-v>": false,
+        "<C-h>": false,
+	  },
+		"<C-v>": false,
+	"vim.useSystemClipboard": false,  
+}
