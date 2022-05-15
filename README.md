@@ -29,7 +29,7 @@ https://marketplace.visualstudio.com/items?itemName=geddski.macros
 	"macros": {
             "commentCMD": [
             	"workbench.action.terminal.toggleTerminal",
-            	{"command": "workbench.action.terminal.sendSequence","args": { "text": "main.py\u000D" }}
+            	{"command": "workbench.action.terminal.sendSequence","args": { "text": "python main.py\u000D" }}
             ]
    	},
 ### keybindings.json
